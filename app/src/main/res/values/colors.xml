@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="day_color">#E48AE4</color>
+    <color name="odd_lesson">#f6f6f6</color>
+    <color name="contrast_color">#000000</color>
+</resources>
